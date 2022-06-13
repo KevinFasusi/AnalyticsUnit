@@ -114,7 +114,7 @@ In this example we will use, $$p=11$$ and $$q=17$$
 \end{align}
 
 - We select a value for the private exponent $$e$$ ensuring no common factors with PHI and $$1<e<\phi$$. 
-The value of $$e$$ in practice is always known and is $$010001$$ in binary or 65,537. We will use $$e=3$$.
+The value of $$e$$ in practice is always known and is 65,537. We will use $$e=3$$.
 
 - Now we have our encryption key $$E(e, N)$$
 
